@@ -8,9 +8,8 @@ const DATA_CACHE_NAME = "data-cache-bt1";
 //  );
 
 const staticFilesToPreCache = [
-  "/index.html",
+  "/",
   "/index.js",
-  "/transaction.js",
   "/manifest.webmanifest",
   "/styles.css",
   "/icons/icon-192x192.png",
