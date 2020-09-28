@@ -1,6 +1,6 @@
 
-const CACHE_NAME = "static-cache-v2";
-const DATA_CACHE_NAME = "data-cache-v1";
+const CACHE_NAME = "static-cache-bt2";
+const DATA_CACHE_NAME = "data-cache-bt1";
 
 //  const iconSizes = ["192", "512"];
 //  const iconFiles = iconSizes.map(
@@ -10,6 +10,7 @@ const DATA_CACHE_NAME = "data-cache-v1";
 const staticFilesToPreCache = [
   "/index.html",
   "/index.js",
+  "/transaction.js",
   "/manifest.webmanifest",
   "/styles.css",
   "/icons/icon-192x192.png",
@@ -48,7 +49,7 @@ self.addEventListener("activate", function(evt) {
 // fetch
 self.addEventListener("fetch", function(evt) {
   const {url} = evt.request;
-  if (url.includes("/all") || url.includes("/find")) {
+  if (url.includes("/api/")) {
     evt.respondWith(
       caches.open(DATA_CACHE_NAME).then(cache => {
         return fetch(evt.request)
