@@ -1,4 +1,3 @@
-
 const CACHE_NAME = "static-cache-bt2";
 const DATA_CACHE_NAME = "data-cache-bt1";
 
