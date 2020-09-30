@@ -35,10 +35,10 @@ After getting network access or in online mode, the data will be saved to our mo
 ### Screenshots
 
 <p style ="text-align:center;">
-<img src="public/budgettracker_1.png" width="380" alt= "budger tracker image 1" height="350"/>
-<img src="public/budgettracker_2.png"  width="380" alt="budger tracker image 2" height="350"/>
-<img src="public/budgettracker_3.png" width="380" alt="budger tracker image 3" height="350"/>
-<img src="public/budgettracker_4.png"  width="380" alt="budger tracker image 4" height="350"/>
+<img src="public/budgettracker_1.png" width="450" alt= "budger tracker image 1" height="450"/>
+<img src="public/budgettracker_2.png"  width="450" alt="budger tracker image 2" height="450"/>
+<img src="public/budgettracker_3.png" width="450" alt="budger tracker image 3" height="450"/>
+<img src="public/budgettracker_4.png"  width="450" alt="budger tracker image 4" height="450"/>
 
 </p>
 
