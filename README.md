@@ -35,17 +35,17 @@ After getting network access or in online mode, the data will be saved to our mo
 ### Screenshots
 
 <p style ="text-align:center;">
-<img src="assets/img/mainPage.png" width="380" alt= "mainPage" height="350"/>
-<img src="assets/img/addExercise.png"  width="380" alt="add exercise Page" height="350"/>
-<img src="assets/img/cardio.png" width="380" alt="cardio Page" height="350"/>
-<img src="assets/img/resistance.png"  width="380" alt="resistance Page" height="350"/>
-<img src="assets/img/db.png"  width="380" alt="db Page" height="350"/>
+<img src="public/budgettracker_1.png" width="380" alt= "budger tracker image 1" height="350"/>
+<img src="public/budgettracker_2.png"  width="380" alt="budger tracker image 2" height="350"/>
+<img src="public/budgettracker_3.png" width="380" alt="budger tracker image 3" height="350"/>
+<img src="public/budgettracker_4.png"  width="380" alt="budger tracker image 4" height="350"/>
 
 </p>
 
-Here's the link to my developed Website : [Workout Tracker](https://mongoose-workouttracker.herokuapp.com/)
+Here's the link to my developed Website : [Budget Tracker](https://pwa-budgettrackers.herokuapp.com/)
 
 #### References
 
-FindOneAndUpdate : [FindOneAndUpdate Documentation](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)<br/>
-Update Validators : [Update Validators Reference](https://mongoosejs.com/docs/validation.html#update-validators)<br/>
+Stack Overflow : [Stackoverflow - cache when offline](https://stackoverflow.com/questions/33045517/use-serviceworker-cache-only-when-offline)<br/>
+Article : [Article - Heroku App Crashed Error](https://dev.to/lawrence_eagles/causes-of-heroku-h10-app-crashed-error-and-how-to-solve-them-3jnl)<br/>
+Video   : [Youtube video - Service worker, Caching ](https://www.youtube.com/watch?v=ksXwaWHCW6k)
