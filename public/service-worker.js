@@ -12,7 +12,8 @@ const staticFilesToPreCache = [
   "/manifest.webmanifest",
   "/styles.css",
   "/icons/icon-192x192.png",
-  "/icons/icon-512x512.png"
+  "/icons/icon-512x512.png",
+  "db.js"
 ]
 // install
 self.addEventListener("install", function(evt) {
