@@ -8,7 +8,7 @@ const staticFilesToPreCache = [
   "/styles.css",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
-  "db.js"
+  "/db.js"
 ]
 // install
 self.addEventListener("install", function(evt) {
