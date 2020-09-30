@@ -1,10 +1,5 @@
-const CACHE_NAME = "static-cache-bt2";
-const DATA_CACHE_NAME = "data-cache-bt1";
-
-//  const iconSizes = ["192", "512"];
-//  const iconFiles = iconSizes.map(
-//    (size) => `/icons/icon-${size}x${size}.png`
-//  );
+const CACHE_NAME = "static-cache-v2";
+const DATA_CACHE_NAME = "data-cache-v1";
 
 const staticFilesToPreCache = [
   "/",
