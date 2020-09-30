@@ -32,17 +32,16 @@ Giving users a fast and easy way to track their money is important, but allowing
 * db.js - In offline mode, save the data to indexedDB and the data will be there. 
 After getting network access or in online mode, the data will be saved to our mongodb. The main purpose of this is to access the application both offline/online.
 
-### Screenshots
-
-<p style ="text-align:center;">
-<img src="public/budgettracker_1.png" width="450" alt= "budger tracker image 1" height="450"/>
-<img src="public/budgettracker_2.png"  width="450" alt="budger tracker image 2" height="450"/>
-<img src="public/budgettracker_3.png" width="450" alt="budger tracker image 3" height="450"/>
-<img src="public/budgettracker_4.png"  width="450" alt="budger tracker image 4" height="450"/>
-
-</p>
+## Link
 
 Here's the link to my developed Website : [Budget Tracker](https://pwa-budgettrackers.herokuapp.com/)
+
+### Screenshots
+
+![Screenshot1](public/budgettracker_1.png)
+![Screenshot2](public/budgettracker_2.png)
+![Screenshot3](public/budgettracker_3.png)
+![Screenshot4](public/budgettracker_4.png)
 
 #### References
 
